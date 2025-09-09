@@ -1,5 +1,5 @@
 
-![Woodpecker Logo](https://raw.githubusercontent.com/yourusername/woodpecker/main/logo.png)
+![Woodpecker Logo](Woodpeckerlogo.png)
 
 # 🪵 Woodpecker – AWS Inventory & Audit Tool
 
