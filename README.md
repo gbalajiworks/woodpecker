@@ -1,7 +1,3 @@
-Here’s a professional **GitHub repository description** for your Woodpecker project:
-
----
-
 # 🪵 Woodpecker – AWS Inventory & Audit Tool
 
 **Woodpecker** is a Python-based AWS enumeration and audit tool designed for cloud engineers, security teams, and DevOps professionals. It provides a clear, professional, and customizable way to list all AWS services, their resources, and URLs, and optionally perform security scans using Prowler.
