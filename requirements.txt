@@ -1,0 +1,4 @@
+# Woodpecker AWS Inventory Tool Requirements
+
+boto3==1.28.0      # AWS SDK for Python (optional, for future CLI replacement)
+requests==2.31.0   # Optional: if you extend script for HTTP checks or resource verification
