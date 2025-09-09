@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 🪵 Woodpecker — AWS Inventory & Audit Tool
-Author: Jackie + ChatGPT
+Author: gbalaji + ChatGPT
 Description:
     - Enumerates AWS services using AWS CLI
     - Supports Account Scan & Stack Scan modes
